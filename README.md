@@ -11,9 +11,14 @@ O contexto escolhido para a analise de dados foi um estado que fica na região s
 
 # **Estrutura do Repositório**
 
-- [README.md](https://github.com/Naiomeap/Trabalho_em_Grupo_Saude/blob/main/README.md): Este arquivo.
-- [Trabalho_em_Grupo_Analise_Saude.ipynb](https://github.com/Naiomeap/Trabalho_em_Grupo_Saude/blob/main/Entrega_Final_Trabalho_em_Grupo_Analise_Saude.ipynb): Notebook produzido em Google Colab com as análises.
-- [Tabela_Compilada](https://github.com/Naiomeap/Trabalho_em_Grupo_Saude/blob/main/Tabela_Compilada.csv): Base de dados, contendo as variáveis demográficas a serem incluídas no modelo.
+- [README.md](https://github.com/Naiomeap/Saude-Mental/blob/main/README.md): Este arquivo.
+- [Trabalho_Individual_Entrega_Final.ipynb](https://github.com/Naiomeap/Saude-Mental/blob/main/Trabalho_Individual_Entrega_Final.ipynb): Notebook produzido em Google Colab com as análises.
+- [Tabela_Dados](https://github.com/Naiomeap/Saude-Mental/blob/main/Tabela_dados.csv): Base de dados, contendo as variáveis demográficas a serem incluídas no modelo.
+- [Suícidio 2017](https://github.com/Naiomeap/Saude-Mental/blob/main/Suicidio%202017.csv): Base de dados, contendo as variáveis sobre tentativas de suícidio em 2017.
+- [Suícidio 2018](https://github.com/Naiomeap/Saude-Mental/blob/main/Suicidio%202018.csv):Base de dados, contendo as variáveis sobre tentativas de suícidio em 2018.
+- [Suícidio 2019](https://github.com/Naiomeap/Saude-Mental/blob/main/Suicidio%202019.csv): Base de dados, contendo as variáveis sobre tentativas de suícidio em 2019.
+- [Suícidio 2020](https://github.com/Naiomeap/Saude-Mental/blob/main/Suicidio%202020.csv): Base de dados, contendo as variáveis sobre tentativas de suícidio em 2020.
+- [Suícidio 2021](https://github.com/Naiomeap/Saude-Mental/blob/main/Suicidio%202021.csv): Base de dados, contendo as variáveis sobre tentativas de suícidio em 2021.
 
 ### Dicionário de Dados
 
