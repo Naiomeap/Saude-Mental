@@ -24,21 +24,51 @@ O contexto escolhido para a analise de dados foi um estado que fica na região s
 
 O *dataset* final conta com os seguintes atributos:
 
-MUN - Município	- object 
-AS_SOC -	Quantidade de Assistente Social	- float64
-PSICO -	Quantidade de Psicólogo -	float64
-PSIQ -	Quantidade de Psiquiatra	- float64
-Acoes_prom -	Ações de promoção e prevenção a saúde -	int64 
-Acoes_comp -	Ações complementares de atenção a saúde -	int64 
-2017 -	Quantidade de ações complementares de atenção a saúde em 2017 -	int64 
-2018 -	Quantidade de ações complementares de atenção a saúde em 2018 -	int64 
-2019 -	Quantidade de ações complementares de atenção a saúde em 2019 -	int64 
-2020 -	Quantidade de ações complementares de atenção a saúde em 2020 -	int64 
-2021 -	Quantidade de ações complementares de atenção a saúde em 2021 -	int64 
+MUN - Município - object
+
+AS_SOC - Quantidade de Assistente Social - float64
+
+PSICO - Quantidade de Psicólogo - float64
+
+PSIQ - Quantidade de Psiquiatra - float64
+
+Acoes_prom - Quantidade de Ações de Promoções e Prevenção da saúde - int64
+
+Acoes_comp - Ações Complementares de Atenção a Saúde - int64
+
+2017 - Quantidade de Ações Complementares de Atenção a Saúde 2017 - int64
+
+2018 - Quantidade de Ações Complementares de Atenção a Saúde 2018 - int64
+
+2019 - Quantidade de Ações Complementares de Atenção a Saúde 2019 - int64
+
+2020 - Quantidade de Ações Complementares de Atenção a Saúde 2020 - int64
+
+2021 - Quantidade de Ações Complementares de Atenção a Saúde 2021 - int64
+
 AR_TER_km2 - Área Territorial em Km² - float64
-POP_EST	-  Quantidade da população Estimada -	int64 
-PIB_P_CAP -	Produto Interno Bruto Per Capta (valores nominais) - float64
-IDHM -	Índice de Desenvolvimento Humano (escala) -	float64
+
+POP_EST – Quantidade da população Estimada - int64
+
+PIB_P_CAP - Produto Interno Bruto Per Capta (valores nominais) - float64
+
+IDHM - Índice de Desenvolvimento Humano (escala) - float64
+
+CODUFMUN - Código do Município - int64
+
+MUN - Nome dos Município - object
+
+REC - Recorrência de tentativa de suícidio 2017 - float64
+
+TENT_y – Tentativa de Suícidio 2017 - int64
+
+REC_21 - Recorrência de tentativa de suícidio 2021 - float64
+
+TENT_21 – Tentativa de Suícidio 2021- int64
+
+Soma_Acoes - Somatório das Ações Complementares da Saúde de 2017-2021 - int64
+
+Dif_Suc - Subtração das colunas de tentativa de suícidio 2017-2021 - float64
 
 
 ### Autora
